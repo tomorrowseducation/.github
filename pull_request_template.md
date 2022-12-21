@@ -1,8 +1,8 @@
 ### Prerequisites
 
-Before opening a PR, I have done a self code review:
-- [ ] _Checked that my code adheres to our [coding standards & guidelines](https://tomorrows-education.atlassian.net/wiki/spaces/WIKI/pages/1320550437/Coding+Guidelines)_
-- [ ] _Made sure that my branch, commits and PR title are formatted according to our [git guidelines](https://tomorrows-education.atlassian.net/wiki/spaces/WIKI/pages/1319076103/Version+Control+Pull+Request+Release+Guidelines)_
+Before opening a PR, I have done a self-code review:
+- [ ] _Checked that my code adheres to our [coding standards & guidelines](https://www.notion.so/tomorrowuniversity/Coding-Guidelines-75b60d9c99c7498c865ad4676db2a090)_
+- [ ] _Made sure that my branch, commits and PR title are formatted according to our [git guidelines](https://www.notion.so/tomorrowuniversity/Version-Control-Pull-Requests-Release-Guidelines-a3c3098305d247e583fdb2efa257b210)_
 
 # PR Summary
 
