@@ -13,4 +13,4 @@ _(Optional additional information)_
 
 </br>
 
-Closes: [_Ticket_]
+Resolves _Ticket_
