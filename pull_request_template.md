@@ -13,4 +13,4 @@ _(Optional additional information)_
 
 </br>
 
-Resolves _Ticket_
+Resolves ISSUE-123
